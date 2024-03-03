@@ -1,0 +1,1 @@
+To run this program run the 'run.sh' file

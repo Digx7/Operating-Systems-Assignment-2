@@ -1,0 +1,11 @@
+total 48
+-rwxr-xr-x 1 root  root    365 Mar  2 17:22 run.sh
+-rwxr-xr-x 1 root  root  16344 Mar  2 17:23 time_pipe
+-rw-r--r-- 1 root  root   1344 Mar  2 17:18 time_pipe.c
+-rw-r--r-- 1 root  root    447 Mar  2 17:22 time_pipe_output.txt
+-rwxr-xr-x 1 root  root  16304 Mar  2 17:23 time_shm
+-rw-rw-r-- 1 digx7 digx7  2038 Mar  2 17:18 time_shm.c
+-rw-r--r-- 1 root  root      0 Mar  2 17:23 time_shm_output.txt
+Time_Shm
+
+Elapsed time: 0.1315 seconds
